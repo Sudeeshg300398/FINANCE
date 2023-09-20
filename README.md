@@ -1,2 +1,7 @@
 # FINANCE
-Dive into the dynamic world of Finance. Discover data-driven projects where finance meets innovation. From predicting bank telemarketing success to safeguarding against credit card fraud and foreseeing corporate financial health.This repository is a gateway for Finance related data-driven solutions and model building.  
+Hello World, 
+  Welcome to the FINANCE repository, a gateway to a world of data-driven finance projects and insights.
+## About
+This repository contains a collection of finance related projects designed to explore interesting financial datasets, and to tackle specific financial challenges.
+## Projects
+1.[Bank Telemarketing Prediction] : Predict the success of bank telemarketing campaigns using Machine Learning.
