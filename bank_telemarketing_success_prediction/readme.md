@@ -23,57 +23,22 @@
 
 * Contents of the Dataset: 
     The dataset used here encompasses various variables related to
-  Key Variables:
 
---Demographic Information:
+    Predictor Variables:
 
-Age
+    --Demographic Information : Age , Job , Marital status , Education
 
-Job
+    --Financial Attributes : Default status , Housing loan status , Personal loan status 
 
-Marital status
+    --Communication Details : Contact method , Month and day of the week of contact duration
 
-Education
+    --Campaign Information : Call duration , Number of contacts during the campaign , Days since the client was last contacted (pdays) , Number of contacts performed before this campaign (previous)
 
---Financial Attributes:
+    --Economic Indicators : Employment variation rate (emp.var.rate) , Consumer price index (cons.price.idx) , Consumer confidence index (cons.conf.idx) , Euribor 3-month rate (euribor3m) , Number of employees         (nr.employed)
 
-Default status
+  Outcome Variable:
 
-Housing loan status
-
-Personal loan status
-
---Communication Details:
-
-Contact method
-
-Month and day of the week of contact duration
-
---Campaign Information:
-
-Call duration
-
-Number of contacts during the campaign
-
-Days since the client was last contacted (pdays)
-
-Number of contacts performed before this campaign (previous)
-
-Economic Indicators:
-
-Employment variation rate (emp.var.rate)
-
-Consumer price index (cons.price.idx)
-
-Consumer confidence index (cons.conf.idx)
-
-Euribor 3-month rate (euribor3m)
-
-Number of employees (nr.employed)
-
-Outcome Variable:
-
-Y: Binary variable indicating whether the client subscribed to a term deposit.
+    Y: Binary variable indicating whether the client subscribed to a term deposit.
 
 
 (https://github.com/Sudeeshg300398/FINANCE/blob/main/bank_telemarketing_success_prediction/bank_telemarketing_success_final.ipynb)
