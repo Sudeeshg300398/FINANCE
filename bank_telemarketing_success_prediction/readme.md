@@ -55,3 +55,6 @@ Number of employees (nr.employed)
 
 Outcome Variable:
 Y: Binary variable indicating whether the client subscribed to a term deposit.
+
+
+(https://github.com/Sudeeshg300398/FINANCE/blob/main/bank_telemarketing_success_prediction/bank_telemarketing_success_final.ipynb)
