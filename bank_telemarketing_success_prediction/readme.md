@@ -26,34 +26,53 @@
   Key Variables:
 
 --Demographic Information:
+
 Age
+
 Job
+
 Marital status
+
 Education
 
 --Financial Attributes:
+
 Default status
+
 Housing loan status
+
 Personal loan status
 
 --Communication Details:
+
 Contact method
+
 Month and day of the week of contact duration
 
 --Campaign Information:
+
 Call duration
+
 Number of contacts during the campaign
+
 Days since the client was last contacted (pdays)
+
 Number of contacts performed before this campaign (previous)
 
 Economic Indicators:
+
 Employment variation rate (emp.var.rate)
+
 Consumer price index (cons.price.idx)
+
 Consumer confidence index (cons.conf.idx)
+
 Euribor 3-month rate (euribor3m)
+
 Number of employees (nr.employed)
 
 Outcome Variable:
+
 Y: Binary variable indicating whether the client subscribed to a term deposit.
 
 
