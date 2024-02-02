@@ -41,5 +41,5 @@
     Y: Binary variable indicating whether the client subscribed to a term deposit.
 
 
-[Link to the Project Notebook on GitHub](https://github.com/Sudeeshg300398/FINANCE/blob/main/bank_telemarketing_success_prediction/bank_telemarketing_success_final.ipynb)
+[Link to the Project Notebook on GitHub](https://github.com/Sudeeshg300398/FINANCE/blob/main/bank_telemarketing_success_prediction/bank_telemarketing_prediction_final_notebook%20(1).ipynb)
 
